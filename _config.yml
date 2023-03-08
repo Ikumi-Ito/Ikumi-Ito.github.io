@@ -41,7 +41,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -51,7 +51,8 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 800px
+# max_width: 800px
+max_width: 65%
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -69,7 +70,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 
 github_username: Ikumi-Ito # your GitHub user name
 gitlab_username: # your GitLab user name
-twitter_username: # your Twitter handle
+twitter_username: ito_ikumin # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 linkedin_username: # your LinkedIn user name
 telegram_username: # your Telegram user name
@@ -100,7 +101,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Email is the best way to reach me.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
