@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-03-13
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Oral presentation at the <a href="https://www.anlp.jp/nlp2023/">言語処理学会第29回年次大会<a> in Okinawa, Japan.

@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2021-11-08
 inline: true
 ---
 
-A simple inline announcement.
+Joined the <a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group<a>.
