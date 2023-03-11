@@ -28,5 +28,4 @@ Senior Undergraduates
 <h3>Interests</h3>
 <ul>
   <li>Natural Language Processing</li>
-  <li>Democratization of AI</li>
 </ul>
