@@ -19,9 +19,9 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 <h3>About</h3>
-Senior Undergraduates
+first-year master's student
 <ul>
-  <li><a href="https://www.ecei.tohoku.ac.jp/eipe/">Tohoku University, School of Engineering, Department of Electrical, Information and Physical Engineering</a>, Information Engineering Course</li>
+  <li><a href="https://www.is.tohoku.ac.jp/">Graduate School of Information Sciences, Tohoku University</a></li>
   <li><a href="https://www.nlp.ecei.tohoku.ac.jp/">Tohoku NLP Group</a></li>
 </ul>
 

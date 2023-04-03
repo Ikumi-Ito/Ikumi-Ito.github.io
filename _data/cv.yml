@@ -11,9 +11,14 @@
 - title: Education
   type: time_table
   contents:
+    - title: Master's Student
+      institution: Graduate School of Information Sciences, Tohoku University
+      year: 2023 - NOW
+      description:
+        - Inui, Sakaguchi & Tokuhisa Lab（Natural Language Processing）
     - title: Bachelor of Engineering
       institution: Tohoku University
-      year: 2019 - now
+      year: 2019 - 2023
       description:
         - Information Engineering Course
         - Inui, Sakaguchi & Tokuhisa Lab（Natural Language Processing）
@@ -25,11 +30,11 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Langsmith Inc.
+    - title: <a href="https://corp.langsmith.co.jp/">Langsmith Inc.</a>
       year: 2021/08 - now
       description:
         - Software Engineer
-    - title: Nikkei Inc.
+    - title: <a href="https://hack.nikkei.com/">Nikkei Inc.</a>
       year: 2022/08
       description:
         - 5 days.
@@ -45,12 +50,20 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023/03
+      title: <a href="https://www.eng.tohoku.ac.jp/news/detail-,-id,2495.html">Tohoku University Dean of Engineering Award</a>
+    - year: 2023/03
+      description:
+        - title: NLP2023
+          contents:
+            - <a href="https://www.anlp.jp/nlp2023/award.html#committee">NLP2023 Committee Member's Special Award (Top 26/579)</a>
+            - <a href="https://www.anlp.jp/nlp2023/award.html#sponsor">NLP2023 Sponsorship Award (NEC Corporation) (1/579)</a>
     - year: 2022/11
       description:
         - title: JPHACKS 2022 Award Day
           contents:
-            - Innovator Certification (Top 9 Teams)
-            - Sponsorship Award (MIRAISE LLC)
+            - <a href="https://jphacks.com/2022/result/innovator/">Innovator Certification (Top 9 Teams)</a>
+            - <a href="https://jphacks.com/2022/result/company/">Sponsorship Award (MIRAISE LLC)</a>
 
 # - title: Academic Interests
 #   type: nested_list
